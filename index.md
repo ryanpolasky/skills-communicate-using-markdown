@@ -10,4 +10,10 @@ sad3 <- matrix(c(1,2,3,4,5,6,7,8,9), nrow=3, ncol=3)
 print(sad3)
 ```
 
+### Task List
+- [X] Become the coolest person on GitHub
+- [X] Achieve all dreams and goals
+- [ ] Be satisifed 
+- [ ] Give up
+
 This commit is simply a short test of basic Markdown functionality meant to provide practice documentation in GitHub.
